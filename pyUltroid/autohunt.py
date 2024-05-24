@@ -6,6 +6,8 @@ from random import randint
 from telethon.errors import DataInvalidError
 from telethon.events import MessageEdited
 
+import hexa1.py
+import hexa2.py
 from . import LOGS, udB, ultroid_bot, ultroid_cmd
 
 
